@@ -32,7 +32,9 @@ Me llamo Eder Nexón Llancari Guerra soy un ingeniero de sistemas especializado 
 
 <div align="center">
 <br><p align="centre"><b>Recuento de visitantes  </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EderLG2020}/count.svg" /></p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EderLG2020&label=Visitas&color=0e75b6&style=flat" alt="contador de visitas" />
+</p>
 <br>
 </div>
 
