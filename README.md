@@ -1,18 +1,40 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+👋;este+es+mi+portafolio+personal;Espero+que+sea+de+su+agrado+😉)
+
 # Mi Portafolio
 
+## 🎓 Sobre Mí
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+👋;este+es+mi+portafolio+personal;Espero+que+sea+de+su+agrado+😉)
+- 🎓 **Bachiller de Ingeniería de Sistemas** | Universidad Nacional de Cañete (UNDC)
+- 💡 Especializado en  **desarrollo Full Stack** y la **Inteligencia Artificial**
+- ⚡ Experiencia en **React**, **Node.js**, **Express.js**, **Laravel**, **MySQL**, **PostgreSQL**, **Docker**
+- 🔍 Explorando el impacto de la **IA** en:
+  - **Ambiente** → *Leafora 🏥*
+- 📧 **Correo**: [ederlg2021@gmail.com](mailto:ederlg2021@gmail.com)
+- 📱 **Teléfono**: [+51 932375676](tel:+51932375676)
 
+## Proyectos Destacados
+
+- Reconocimiento facial
+- Bot para messenger en meta
+- Eccomerce con facturación electrónica
+- Registro de asistencia con envío WhatsApp
+- Software de escritorio registro de actividades
+- Tema DarkEd para Visual Studio Code (disponible)
+
+## Labore en
+<p align="center">
+  <img src="https://i.ibb.co/rK3K2vnN/Group-1-3.png" alt="Labore en" />
+</p>
+
+---
+
+
+ 
 
 <h1 align="center">Metricas de Github </h1><p align="center">
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EderLG2020&theme=github_dark" />
 </p>
 
-
-
-## ¿QUIEN SOY?
-
-Me llamo Eder Nexón Llancari Guerra soy un ingeniero de sistemas especializado en el desarrollo de software donde atraves de mi carrera he desarrollado diversos proyectos multiplataformas con las variedades de mis skill's tambien he laborado en campos de desarrollo de aplicaciones web y escritorio, también poseo conocimientos técnicos sobre el implementación de un entorno Dev'os, desarrollo de apps móviles, manejo de servidores y seguridad en aplicaciones web's.
 
 
 <div align="center">  
