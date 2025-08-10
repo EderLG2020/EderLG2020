@@ -23,12 +23,10 @@
 
 ## Labore en
 <p align="center">
-  <img src="https://i.ibb.co/rK3K2vnN/Group-1-3.png" alt="Labore en" />
+  <img src="https://i.ibb.co/rK3K2vnN/Group-1-3.png" alt="Typing SVG" width="300">
 </p>
 
 ---
-
-
  
 
 <h1 align="center">Metricas de Github </h1><p align="center">
