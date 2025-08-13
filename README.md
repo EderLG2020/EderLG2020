@@ -8,7 +8,7 @@
 ## 🎓 Sobre Mí
 
 - 🎓 **Bachiller de Ingeniería de Sistemas** | Universidad Nacional de Cañete (UNDC)
-- 💡 Especializado en  **desarrollo Full Stack** y la **Inteligencia Artificial**
+- 💡 Especializado en  **desarrollo Full Stack** e **Inteligencia Artificial**
 - ⚡ Experiencia en **React**, **Node.js**, **Express.js**, **Laravel**, **MySQL**, **PostgreSQL**, **Docker**
 - 🔍 Explorando el impacto de la **IA** en:
   - **Ambiente** → *Leafora 🏥*
